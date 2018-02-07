@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: XBMC Addons\n"
 "Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2018-01-27 19:31+08\n"
 "Last-Translator: XBMC Translation Team\n"
 "Language-Team: Chinese, Simplified\n"
 "MIME-Version: 1.0\n"
@@ -56,20 +56,30 @@ msgid "Ignore terms such as 'The' and 'A' when sorting lists"
 msgstr "排序时忽略'The'和'A'之类的词"
 
 msgctxt ""
-msgid "When listing artists should we only see artists with albums or all artists found. Warning: turning this off can impact performance with large libraries"
-msgstr "当列出艺术家的时候，我们仅列出专辑上的艺术家或者能找到的所有艺术家。警告：库比较大的时候关闭此项可能会影响性能。"
+msgid ""
+"When listing artists should we only see artists with albums or all artists "
+"found. Warning: turning this off can impact performance with large libraries"
+msgstr ""
+"当列出艺术家的时候，我们仅列出专辑上的艺术家或者能找到的所有艺术家。"
+"警告：库比较大的时候关闭此项可能会影响性能。"
 
 msgctxt ""
 msgid "is the default"
 msgstr "是默认的"
 
 msgctxt ""
-msgid "The hostname used for websockets connection. Set to 'auto' to use the current hostname."
-msgstr "用于websockets连接的服务器名字。设置为‘auto’来使用当前的服务器名字。"
+msgid ""
+"The hostname used for websockets connection. Set to 'auto' to use the "
+"current hostname."
+msgstr ""
+"用于websockets连接的服务器名字。设置为‘auto’来使用当前的服务器名字。"
 
 msgctxt ""
-msgid "How often do I poll for updates from Kodi (Only applies when websockets inactive)"
-msgstr "多久从Kodi更新一次（仅当websockets关闭是生效）"
+msgid ""
+"How often do I poll for updates from Kodi (Only applies when websockets "
+"inactive)"
+msgstr ""
+"多久从Kodi更新一次（仅当websockets关闭时生效）"
 
 msgctxt ""
 msgid "Enable support for reverse proxy."
@@ -81,7 +91,7 @@ msgstr "设置已保存"
 
 msgctxt ""
 msgid "Just a sec..."
-msgstr "稍等。。。"
+msgstr "稍等……"
 
 msgctxt ""
 msgid "Unable to communicate with Kodi in a long time. I think it's dead Jim!"
@@ -105,7 +115,7 @@ msgstr "音频库扫描完毕"
 
 msgctxt ""
 msgid "Kodi has quit"
-msgstr "Kodi已退出"
+msgstr "Kodi 已退出"
 
 msgctxt ""
 msgid "Sections"
@@ -117,7 +127,7 @@ msgstr "后退"
 
 msgctxt ""
 msgid "Loading folder..."
-msgstr "正在加载文件夹。。。"
+msgstr "正在加载文件夹……"
 
 msgctxt ""
 msgid "Show more"
@@ -125,7 +135,7 @@ msgstr "显示更多"
 
 msgctxt ""
 msgid "to Kodi"
-msgstr "to Kodi"
+msgstr "到Kodi"
 
 msgctxt ""
 msgid "Playlist refreshed"
@@ -266,12 +276,19 @@ msgid "sec"
 msgstr "秒"
 
 msgctxt ""
-msgid "Your browser doesn't support websockets! Get with the times and update your browser."
-msgstr "你的浏览器不支持websockets！是时候升级浏览器了。"
+msgid ""
+"Your browser doesn't support websockets! Get with the times and update your "
+"browser."
+msgstr ""
+"你的浏览器不支持websockets！是时候升级浏览器了。"
 
 msgctxt ""
 msgid "Failed to connect to websockets"
-msgstr "Failed to connect to websockets, so I am falling back to polling for updates. Which makes things slower and uses more resources. Please ensure you have 'Allow programs on other systems to control Kodi' ENABLED in the Kodi settings (System > Services > Remote control). You may also get this if you are using proxies or accessing via an IP addess when localhost will suffice. If websockets normally works, you might just need to refresh your browser."
+msgstr ""
+"连接websocket失败，之后会使用拉取方式更新。这会导致更新更慢以及消耗更多资源。"
+"请确保你已经在Kodi设置（系统 > 服务设置 > 控制）中启用了‘允许通过异地程序远程控制’选项。"
+"使用代理或者当localhost可用时通过IP地址访问，同样可能导致此种错误。"
+"如果websocket能够正常工作，你只需刷新浏览器即可。"
 
 msgctxt ""
 msgid "Video"
@@ -311,7 +328,7 @@ msgstr[1] "结果"
 
 msgctxt ""
 msgid "Loading things..."
-msgstr "加载中。。。"
+msgstr "加载中……"
 
 msgctxt ""
 msgid "Scan video library"
@@ -347,7 +364,7 @@ msgstr "所有电影"
 
 msgctxt ""
 msgid "Recent episodes"
-msgstr "最近的电视节目"
+msgstr "最近的剧集"
 
 msgctxt ""
 msgid "All TV shows"
@@ -359,15 +376,18 @@ msgstr "网页设置"
 
 msgctxt ""
 msgid "Kodi settings"
-msgstr "Kodi设置"
+msgstr "Kodi 设置"
 
 msgctxt ""
 msgid "Now Playing Playlists"
 msgstr "现在正在播放播放列表"
 
 msgctxt ""
-msgid "Switch between Kodi and local playback via the tabs. You can toggle visibility with the arrow in the top right"
-msgstr "用标签在Kodi和本地播放间切换。你可以用右上角的箭头来显示或隐藏它。"
+msgid ""
+"Switch between Kodi and local playback via the tabs. You can toggle "
+"visibility with the arrow in the top right"
+msgstr ""
+"用标签在Kodi和本地播放间切换。你可以用右上角的箭头来显示或隐藏它。"
 
 msgctxt ""
 msgid "Current playlist"
@@ -375,7 +395,7 @@ msgstr "当前播放列表"
 
 msgctxt ""
 msgid "Clear playlist"
-msgstr "清楚播放列表"
+msgstr "清空播放列表"
 
 msgctxt ""
 msgid "Refresh playlist"
@@ -446,8 +466,11 @@ msgid "Browse files and add-ons"
 msgstr "浏览文件和插件"
 
 msgctxt ""
-msgid "This is where you can browse all Kodi content, not just what is in the library. Browse by source or add-on."
-msgstr "这里不仅可以浏览库，还可以浏览所有的Kodi内容。选择Source或插件来浏览。"
+msgid ""
+"This is where you can browse all Kodi content, not just what is in the "
+"library. Browse by source or add-on."
+msgstr ""
+"这里不仅可以浏览库，还可以浏览所有的Kodi内容。选择源或插件来浏览。"
 
 msgctxt ""
 msgid "Send text to Kodi"
@@ -471,19 +494,22 @@ msgstr "实验阶段代码，使用者风险自担"
 
 msgctxt ""
 msgid "Kodi API browser"
-msgstr "Kodi API 浏览器"
+msgstr "Kodi API浏览器"
 
 msgctxt ""
-msgid "This is a tool to test out the API. Select a method then execute it with parameters."
-msgstr "这是用于测试API的工具。选择一个方法，添加一些参数来执行它。"
+msgid ""
+"This is a tool to test out the API. Select a method then execute it with "
+"parameters."
+msgstr ""
+"这是用于测试API的工具。选择一个方法，添加一些参数来执行它。"
 
 msgctxt ""
-msgid "You could potentially damage your system with this and there are no sanity checks. Use at own risk."
-msgstr "这么做你可能会破坏你的系统。风险自担。"
+msgid ""
+"You could potentially damage your system with this and there are no sanity "
+"checks. Use at own risk."
+msgstr ""
+"这么做你可能会破坏你的系统。风险自担。"
 
-msgctxt ""
-msgid "Kodi settings"
-msgstr "Kodi设置"
 
 msgctxt ""
 msgid "Saved Kodi settings"
@@ -494,20 +520,14 @@ msgid "General"
 msgstr "通用"
 
 msgctxt ""
-msgid "Web settings"
-msgstr "Web设置"
-
-msgctxt ""
-msgid "Advanced setting level is recommended for those who know what they are doing."
-msgstr "高级设置只适合清楚自己在做什么的用户"
-
-msgctxt ""
-msgid "Web settings saved."
-msgstr "Web设置已保存"
+msgid ""
+"Advanced setting level is recommended for those who know what they are doing."
+msgstr ""
+"高级设置只适合清楚自己在做什么的用户"
 
 msgctxt ""
 msgid "Kodi settings level"
-msgstr "Kodi设置级别"
+msgstr "Kodi 设置级别"
 
 msgctxt ""
 msgid "Remove"
@@ -582,8 +602,11 @@ msgid "Focus playlist on playing"
 msgstr "播放时聚焦在播放列表上"
 
 msgctxt ""
-msgid "Automatically scroll the playlist to the current playing item. This happens whenever the playing item is changed"
-msgstr "自动滚动播放列表到当前播放内容。当播放内容变化时生效。"
+msgid ""
+"Automatically scroll the playlist to the current playing item. This happens "
+"whenever the playing item is changed"
+msgstr ""
+"自动滚动播放列表到当前播放内容。当播放内容变化时生效。"
 
 msgctxt ""
 msgid "Web Settings saved."
@@ -622,8 +645,11 @@ msgid "Main Menu Structure"
 msgstr "主菜单结构"
 
 msgctxt ""
-msgid "Here you can change the title, url and icons for menu items. You can also remove, re-order and add new items."
-msgstr "在这里你可以改变菜单项的标题，url和图标。你也可以删除，排序和添加新的菜单项。"
+msgid ""
+"Here you can change the title, url and %1$s for menu items. You can also "
+"remove, re-order and add new items."
+msgstr ""
+"在这里你可以改变菜单项的标题，url和%1$s。你也可以删除，排序和添加新的菜单项。"
 
 msgctxt ""
 msgid "Main Nav"
@@ -663,7 +689,7 @@ msgstr "浏览"
 
 msgctxt ""
 msgid "Thumbs up"
-msgstr "赞"
+msgstr "点赞"
 
 msgctxt ""
 msgid "Settings"
@@ -672,3 +698,743 @@ msgstr "设置"
 msgctxt ""
 msgid "Help"
 msgstr "帮助"
+
+msgctxt ""
+msgid "Disable Thumbs Up"
+msgstr "关闭点赞"
+
+msgctxt ""
+msgid ""
+"Remove the thumbs up button from media. Note: you may also want to remove "
+"the menu item from the %1$s"
+msgstr ""
+"从媒体中移除点赞按钮。注意：你可能也想从%1$s中移除菜单项。"
+
+msgctxt ""
+msgid "You need to 'Allow remote control' for Kodi. You can do that"
+msgstr "你需要在Kodi中 ‘允许远程控制’。设置位置在"
+
+msgctxt ""
+msgid "here"
+msgstr "这里"
+
+msgctxt ""
+msgid "yes"
+msgstr "是"
+
+msgctxt ""
+msgid "no"
+msgstr "否"
+
+msgctxt ""
+msgid "close"
+msgstr "关闭"
+
+msgctxt ""
+msgid "ok"
+msgstr "ok"
+
+msgctxt ""
+msgid "Are you sure?"
+msgstr "你确定吗？"
+
+msgctxt ""
+msgid "Set all episodes for this season as"
+msgstr "设置该季中的所有剧集为"
+
+msgctxt ""
+msgid "Set all episodes for this TV show as"
+msgstr "设置该电视节目中的所有剧集为"
+
+msgctxt ""
+msgid "watched"
+msgstr "已观看"
+
+msgctxt ""
+msgid "unwatched"
+msgstr "未观看"
+
+msgctxt ""
+msgid "genre"
+msgstr "流派"
+
+msgctxt ""
+msgid "studio"
+msgstr "工作室"
+
+msgctxt ""
+msgid "rated"
+msgstr "评分"
+
+msgctxt ""
+msgid "episodes"
+msgstr "剧集"
+
+msgctxt ""
+msgid "total"
+msgstr "全部"
+
+msgctxt ""
+msgid "set"
+msgstr "设为"
+
+msgctxt ""
+msgid "Show device name"
+msgstr "显示设备名称"
+
+msgctxt ""
+msgid "Show the Kodi device name in the header of Chorus"
+msgstr "在Chorus页头显示Kodi设备名称"
+
+msgctxt ""
+msgid "No results found"
+msgstr "找不到结果"
+
+msgctxt ""
+msgid "Have you done a library scan?"
+msgstr "你已经扫描过库了?"
+
+msgctxt ""
+msgid "Play in browser"
+msgstr "在浏览器中播放"
+
+msgctxt ""
+msgid "Edit"
+msgstr "编辑"
+
+msgctxt ""
+msgid "Add to Kodi"
+msgstr "添加到Kodi"
+
+msgctxt ""
+msgid "Watched"
+msgstr "已观看"
+
+msgctxt ""
+msgid "New playlist"
+msgstr "新播放列表"
+
+msgctxt ""
+msgid "Play in Kodi"
+msgstr "在Kodi中播放"
+
+msgctxt ""
+msgid "Export list"
+msgstr "导出列表"
+
+msgctxt ""
+msgid "Delete playlist"
+msgstr "删除播放列表"
+
+msgctxt ""
+msgid "title"
+msgstr "标题"
+
+msgctxt ""
+msgid "year"
+msgstr "年代"
+
+msgctxt ""
+msgid "date added"
+msgstr "添加日期"
+
+msgctxt ""
+msgid "rating"
+msgstr "评分"
+
+msgctxt ""
+msgid "actor"
+msgstr "演员"
+
+msgctxt ""
+msgid "mood"
+msgstr "情绪"
+
+msgctxt ""
+msgid "writer"
+msgstr "编剧"
+
+msgctxt ""
+msgid "director"
+msgstr "导演"
+
+msgctxt ""
+msgid "mood"
+msgstr "情绪"
+
+msgctxt ""
+msgid "style"
+msgstr "类型"
+
+msgctxt ""
+msgid "items selected"
+msgstr "已选择的项目"
+
+msgctxt ""
+msgid "item selected"
+msgstr "已选择的项目"
+
+msgctxt ""
+msgid "Video library clean started"
+msgstr "清理视频库开始"
+
+msgctxt ""
+msgid "Video library clean finished"
+msgstr "清理视频库完毕"
+
+msgctxt ""
+msgid "Audio library clean started"
+msgstr "清理音频库开始"
+
+msgctxt ""
+msgid "Audio library clean finished"
+msgstr "清理音频库完毕"
+
+msgctxt ""
+msgid "This is a tool to test out the api. Select a method then execute it with parameters."
+msgstr "这是用于测试API的工具。选择一个方法，添加一些参数来执行它。"
+
+msgctxt ""
+msgid "Go to season"
+msgstr "整季节目页面"
+
+msgctxt ""
+msgid "Queue in Kodi"
+msgstr "添加到Kodi队列中"
+
+msgctxt ""
+msgid "Adding items to the queue"
+msgstr "添加项目到队列中"
+
+msgctxt ""
+msgid "Live TV"
+msgstr "电视直播"
+
+msgctxt ""
+msgid "Recently added albums"
+msgstr "最近添加的专辑"
+
+msgctxt ""
+msgid "Random albums"
+msgstr "随机专辑"
+
+msgctxt ""
+msgid "Recently played albums"
+msgstr "最近播放的专辑"
+
+msgctxt ""
+msgid "Random movies"
+msgstr "随机电影"
+
+msgctxt ""
+msgid "Continue watching"
+msgstr "继续观看"
+
+msgctxt ""
+msgid "More from %1$s"
+msgstr "更多的%1$s"
+
+msgctxt ""
+msgid "More %1$s movies"
+msgstr "更多 %1$s 电影"
+
+msgctxt ""
+msgid "More movies staring %1$s"
+msgstr "%1$s 主演的电影"
+
+msgctxt ""
+msgid "Other movies released in %1$s"
+msgstr "其它在 %1$s 上映的电影"
+
+msgctxt ""
+msgid "artist"
+msgstr "艺术家"
+
+msgctxt ""
+msgid "random"
+msgstr "随机"
+
+msgctxt ""
+msgid "label"
+msgstr "标记"
+
+msgctxt ""
+msgid "formed"
+msgstr "成立"
+
+msgctxt ""
+msgid "born"
+msgstr "出生"
+
+msgctxt ""
+msgid "died"
+msgstr "死亡"
+
+msgctxt ""
+msgid "disbanded"
+msgstr "解散"
+
+msgctxt ""
+msgid "years active"
+msgstr "活跃年代"
+
+msgctxt ""
+msgid "Click for more"
+msgstr "点击获取更多"
+
+msgctxt ""
+msgid "Loading albums"
+msgstr "正在加载专辑"
+
+msgctxt ""
+msgid ""
+"%1$d seconds ago, an input dialog opened in Kodi and it is still open! "
+"To prevent a mainframe implosion, you should probably give me some "
+"text. I don't really care what it is at this point, why not be creative? "
+"Do you have a %2$s? I won't tell..."
+msgstr ""
+"%1$d seconds ago, an input dialog opened in Kodi and it is still open! "
+"To prevent a mainframe implosion, you should probably give me some "
+"text. I don't really care what it is at this point, why not be creative? "
+"Do you have a %2$s? I won't tell..."
+
+msgctxt ""
+msgid "all media"
+msgstr "全部媒体"
+
+msgctxt ""
+msgid "YouTube"
+msgstr "YouTube"
+
+msgctxt ""
+msgid "SoundCloud"
+msgstr "SoundCloud"
+
+msgctxt ""
+msgid "GoogleMusic"
+msgstr "GoogleMusic"
+
+msgctxt ""
+msgid "Radio"
+msgstr "Radio"
+
+msgctxt ""
+msgid "MixCloud"
+msgstr "MixCloud"
+
+msgctxt ""
+msgid "First aired"
+msgstr "首播"
+
+msgctxt ""
+msgid "Updated %1$s details"
+msgstr "更新%1$s细节"
+
+msgctxt ""
+msgid "Title"
+msgstr "标题"
+
+msgctxt ""
+msgid "Plot"
+msgstr "剧情简介"
+
+msgctxt ""
+msgid "Rating"
+msgstr "评分"
+
+msgctxt ""
+msgid "Original title"
+msgstr "原始标题"
+
+msgctxt ""
+msgid "Directors"
+msgstr "导演"
+
+msgctxt ""
+msgid "Writers"
+msgstr "编剧"
+
+msgctxt ""
+msgid "File path"
+msgstr "文件路径"
+
+msgctxt ""
+msgid "Artist"
+msgstr "艺术家"
+
+msgctxt ""
+msgid "Description"
+msgstr "描述"
+
+msgctxt ""
+msgid "Label"
+msgstr "标记"
+
+msgctxt ""
+msgid "Year"
+msgstr "年代"
+
+msgctxt ""
+msgid "Genres"
+msgstr "流派"
+
+msgctxt ""
+msgid "Styles"
+msgstr "类型"
+
+msgctxt ""
+msgid "Themes"
+msgstr "主题"
+
+msgctxt ""
+msgid "Moods"
+msgstr "情绪"
+
+msgctxt ""
+msgid "Album artist"
+msgstr "专辑艺术家"
+
+msgctxt ""
+msgid "Album"
+msgstr "专辑"
+
+msgctxt ""
+msgid "Track"
+msgstr "音轨"
+
+msgctxt ""
+msgid "Disc"
+msgstr "唱片"
+
+msgctxt ""
+msgid "Tagline"
+msgstr "标语"
+
+msgctxt ""
+msgid "Studio"
+msgstr "工作室"
+
+msgctxt ""
+msgid "Content rating"
+msgstr "内容评分"
+
+msgctxt ""
+msgid "Premiered"
+msgstr "首演"
+
+msgctxt ""
+msgid "IMDb"
+msgstr "IMDb"
+
+msgctxt ""
+msgid "Sort title"
+msgstr "标题排序"
+
+msgctxt ""
+msgid "Country"
+msgstr "国家"
+
+msgctxt ""
+msgid "Set"
+msgstr "设为"
+
+msgctxt ""
+msgid "Tags"
+msgstr "标签"
+
+msgctxt ""
+msgid "Trailer"
+msgstr "预告片"
+
+msgctxt ""
+msgid "Formed"
+msgstr "成立"
+
+msgctxt ""
+msgid "Disbanded"
+msgstr "解散"
+
+msgctxt ""
+msgid "Years Active"
+msgstr "活跃年代"
+
+msgctxt ""
+msgid "Born"
+msgstr "出生"
+
+msgctxt ""
+msgid "Died"
+msgstr "死亡"
+
+msgctxt ""
+msgid "Instruments"
+msgstr "乐器"
+
+msgctxt ""
+msgid "more"
+msgstr "更多"
+
+msgctxt ""
+msgid "in progress"
+msgstr "进行中"
+
+msgctxt ""
+msgid "URL"
+msgstr "URL"
+
+msgctxt ""
+msgid "Add an image via an external URL"
+msgstr "通过外部URL添加图片"
+
+msgctxt ""
+msgid "Searching for more images"
+msgstr "搜索更多图像"
+
+msgctxt ""
+msgid "Selector"
+msgstr "选择器"
+
+msgctxt ""
+msgid "External Search"
+msgstr "外部搜索"
+
+msgctxt ""
+msgid "Local media"
+msgstr "本地媒体"
+
+msgctxt ""
+msgid "Chorus Search"
+msgstr "Chorus搜索"
+
+msgctxt ""
+msgid "YouTube Search"
+msgstr "YouTube搜索"
+
+msgctxt ""
+msgid "Executed addon"
+msgstr "排除的插件"
+
+msgctxt ""
+msgid "all"
+msgstr "全部"
+
+msgctxt ""
+msgid "video"
+msgstr "视频"
+
+msgctxt ""
+msgid "audio"
+msgstr "音频"
+
+msgctxt ""
+msgid "image"
+msgstr "图像"
+
+msgctxt ""
+msgid "picture"
+msgstr "照片"
+
+msgctxt ""
+msgid "executable"
+msgstr "可执行的"
+
+msgctxt ""
+msgid "settings"
+msgstr "设置"
+
+msgctxt ""
+msgid "Refresh"
+msgstr "刷新"
+
+msgctxt ""
+msgid "Confirm refresh"
+msgstr ""
+"刷新 ‘%1$s’ 会将之从库中删除然后再次添加，这可能会导致ID改变。"
+"我会在几秒之后尝试用新ID重载该页面，点击 ‘是’ 以确认刷新。"
+
+msgctxt ""
+msgid "Refresh Ignore NFO"
+msgstr "刷新时忽略NFO文件"
+
+msgctxt ""
+msgid "Ignore local NFO files when manually refreshing media."
+msgstr "当手动刷新媒体时忽略NFO文件"
+
+msgctxt ""
+msgid "Show only"
+msgstr "只有演出"
+
+msgctxt ""
+msgid "Show and episodes"
+msgstr "演出和剧集"
+
+msgctxt ""
+msgid "Top music"
+msgstr "顶级音乐"
+
+msgctxt ""
+msgid "%1$s Artists"
+msgstr "%1$s艺术家"
+
+msgctxt ""
+msgid "%1$s Albums"
+msgstr "%1$s专辑"
+
+msgctxt ""
+msgid "%1$s Songs"
+msgstr "%1$s歌曲"
+
+msgctxt ""
+msgid "default"
+msgstr "默认"
+
+msgctxt ""
+msgid "Actions"
+msgstr "动作"
+
+msgctxt ""
+msgid "play files"
+msgstr "播放文件"
+
+msgctxt ""
+msgid "queue files"
+msgstr "添加文件至队列"
+
+msgctxt ""
+msgid "Sent text"
+msgstr "发送文本"
+
+msgctxt ""
+msgid "License"
+msgstr "授权"
+
+msgctxt ""
+msgid "Main Menu"
+msgstr "主菜单"
+
+msgctxt ""
+msgid "Search"
+msgstr "搜索"
+
+msgctxt ""
+msgid "Custom Add-on search"
+msgstr "自定义插件搜索"
+
+msgctxt ""
+msgid "Add custom add-on searches"
+msgstr ""
+"Chorus search supports searching not only local media but add-on content too. For example, you can use the "
+"search to find videos in YouTube or audio in SoundCloud. This page allows you to add custom add-on searches "
+"that are not included out of the box. See the %1$s for more information."
+
+msgctxt ""
+msgid "Add-ons help page"
+msgstr "插件帮助页面"
+
+msgctxt ""
+msgid "No %1$s found"
+msgstr "找不到%1$s"
+
+msgctxt ""
+msgid "results"
+msgstr "结果"
+
+msgctxt ""
+msgid "EPG data"
+msgstr "EPG 数据"
+
+msgctxt ""
+msgid "PVR"
+msgstr "PVR"
+
+msgctxt ""
+msgid "Recordings"
+msgstr "录像"
+
+msgctxt ""
+msgid "Channel recording toggled"
+msgstr "录像频道已切换"
+
+msgctxt ""
+msgid "TV Channels"
+msgstr "电视频道"
+
+msgctxt ""
+msgid "Radio Stations"
+msgstr "广播站点"
+
+msgctxt ""
+msgid "Record"
+msgstr "录像"
+
+msgctxt ""
+msgid "Toggle timer"
+msgstr "切换定时器"
+
+msgctxt ""
+msgid "Now"
+msgstr "现在"
+
+msgctxt ""
+msgid "Rename playlist"
+msgstr "重命名播放列表"
+
+msgctxt ""
+msgid "album"
+msgstr "专辑"
+
+msgctxt ""
+msgid "Videos"
+msgstr "视频"
+
+msgctxt ""
+msgid "Lost connection to Kodi"
+msgstr "与Kodi失去连接"
+
+msgctxt ""
+msgid "Attempt to reconnect"
+msgstr "尝试重连"
+
+msgctxt ""
+msgid "Attempting reconnect"
+msgstr "正在尝试重连"
+
+msgctxt ""
+msgid "Top Songs"
+msgstr "顶级歌曲"
+
+msgctxt ""
+msgid "Top Albums"
+msgstr "顶级专辑"
+
+msgctxt ""
+msgid "Toggle select all"
+msgstr "切换全选"
+
+msgctxt ""
+msgid "More like this"
+msgstr "更多类似"
+
+msgctxt ""
+msgid "music videos"
+msgstr "音乐视频"
+
+msgctxt ""
+msgid "Related music videos from YouTube"
+msgstr "YouTube中的相关音乐视频"
+
+msgctxt ""
+msgid "Lost websocket connection"
+msgstr "websocket失去连接"
+
+msgctxt ""
+msgid "Attempting websockets reconnect"
+msgstr "正在尝试websockets重连"
+
+msgctxt ""
+msgid "This should be the play path for the trailer. Eg. %1$s"
+msgstr "这里应该是预告片的播放路径。例如： %1$s"
+
+msgctxt ""
+msgid "%1$s party mode toggled"
+msgstr "%1$s 派对模式切换"
